@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "548351284728",
+    "project_id": "govintouch-6c139",
+    "storage_bucket": "govintouch-6c139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548351284728:android:a6797d2efc03721d3ff20d",
+        "android_client_info": {
+          "package_name": "com.thealphamerc.flutter_twitter_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548351284728-c9eq955842tgdekirff1fhoqqc5j448m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thealphamerc.flutter_twitter_clone",
+            "certificate_hash": "c20fb880682033b102e4f963a3374c8413ddfc55"
+          }
+        },
+        {
+          "client_id": "548351284728-kqbe1g57108cnn1u3emtt1d3k8nhsv92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJgDFWpSsGBrInSE8tCizB8GA15V_k1V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548351284728-kqbe1g57108cnn1u3emtt1d3k8nhsv92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "548351284728-1j13mtcke559i9pqaopdfastq4n3tes0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thealphamerc.flutterTwitterClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
